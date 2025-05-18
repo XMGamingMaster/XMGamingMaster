@@ -4,7 +4,7 @@
 
   ---
 
-  ### :hammer_and_wrench: Languages and Tools:
+  ### :hammer_and_wrench: Languages and Tools
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
@@ -19,7 +19,7 @@
 
   ---
 
-  ### :fire: My Stats:
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XMGamingMaster&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  ### :fire: My Stats
+  [![GitHub Streak](https://streak-stats.demolab.com?user=XMGamingMaster&theme=highcontrast&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
 
 </div>
