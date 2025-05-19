@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/><br />
-  <img src="https://komarev.com/ghpvc/?username=XMGamingMaster&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=stevenmodl&color=blue&style=flat" />
 
   ---
 
@@ -20,6 +20,6 @@
   ---
 
   ### :fire: My Stats
-  [![GitHub Streak](https://streak-stats.demolab.com?user=XMGamingMaster&theme=highcontrast&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=stevenmodl&theme=highcontrast&exclude_days=Sun%2CSat&hide_longest_streak=true)](https://git.io/streak-stats)
 
 </div>
